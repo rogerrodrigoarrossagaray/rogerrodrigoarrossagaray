@@ -9,15 +9,15 @@
 - 🎓 Graduado/a en Henry como FullStack Developer.
 
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,bootstrap,express,sequelize,figma,ps,postgres,react,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,express,sequelize,figma,ps,postgres,react,wordpress)](https://skillicons.dev)
 
 ## Contacto
 
 ¡Me encantaría saber de ti! Puedes encontrarme en:
 
 - 📧 Email: roger.rodrigo.arrossagaray@gmail.com
-- 💬 LinkedIn: [[Tu Perfil de LinkedIn]](https://www.linkedin.com/in/roger-arrossagaray-b28306225/)
-- 🌐 Sitio web: [TuSitioWeb.com]
+- 💬 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/roger-arrossagaray-b28306225/)
+
 
 ## Estadísticas de GitHub
 
